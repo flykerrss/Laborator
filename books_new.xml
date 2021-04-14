@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<books>
+    <genre genreId="02" genreName="tragedy">
+        <book bookId="003">
+            <author>William Shakespeare</author>
+            <name>Romeo and Juliet</name>
+            <publicationDate>1597</publicationDate>
+            <availability>true</availability>
+            <characters>
+                <character>Romeo Montague</character>
+                <character>Juliet Capulet</character>
+                <character>Tybalt</character>
+            </characters>
+            <publisher>First Quarto</publisher>
+        </book>
+    </genre>
+</books>

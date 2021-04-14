@@ -1,0 +1,38 @@
+{
+  "book2": {
+    "author": "J. R. R. Tolkien",
+    "name": "The Lord of the Rings",
+    "publicationDate": "1954",
+    "availability": "false",
+    "characters": [
+      "Brego",
+      "Éothain and Freda",
+      "Figwit"
+    ],
+    "publisher": "Allen and Unwin"
+  },
+  "book1": {
+    "author": "Joanne Rowling",
+    "name": "Harry Potter and the Philosopher's Stone",
+    "publicationDate": "1995",
+    "availability": "true",
+    "characters": [
+      "Harry Potter",
+      "Ronald Weasley",
+      "Hermione Granger"
+    ],
+    "publisher": "Bloomsbury"
+  },
+  "book3": {
+    "author": "William Shakespeare",
+    "name": "Romeo and Juliet",
+    "publicationDate": "1597",
+    "availability": "true",
+    "characters": [
+      "Romeo Montague",
+      "Juliet Capulet",
+      "Tybalt"
+    ],
+    "publisher": "First Quarto"
+  }
+}

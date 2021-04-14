@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<books>
+    <genre genreId="01" genreName="fantasy">
+        <book bookId="001">
+            <author>Joanne Rowling</author>
+            <name>Harry Potter and the Philosopher's Stone</name>
+            <publicationDate>1995</publicationDate>
+            <availability>true</availability>
+            <characters>
+                <character>Harry Potter</character>
+                <character>Ronald Weasley</character>
+                <character>Hermione Granger</character>
+            </characters>
+            <publisher>Bloomsbury</publisher>
+        </book>
+        <book bookId="002">
+            <author>J. R. R. Tolkien</author>
+            <name>The Lord of the Rings</name>
+            <publicationDate>1954</publicationDate>
+            <availability>false</availability>
+            <characters>
+                <character>Brego</character>
+                <character>Éothain and Freda</character>
+                <character>Figwit</character>
+            </characters>
+            <publisher>Allen and Unwin</publisher>
+        </book>
+    </genre>
+    <genre genreId="02" genreName="tragedy">
+        <book bookId="003">
+            <author>William Shakespeare</author>
+            <name>Romeo and Juliet</name>
+            <publicationDate>1597</publicationDate>
+            <availability>true</availability>
+            <characters>
+                <character>Romeo Montague</character>
+                <character>Juliet Capulet</character>
+                <character>Tybalt</character>
+            </characters>
+            <publisher>First Quarto</publisher>
+        </book>
+    </genre>
+</books>
